@@ -1,0 +1,780 @@
+{
+  "college-mate_20260507_080718": {
+    "id": "college-mate_20260507_080718",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T08:07:18.845426",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:07:21.946577"
+      }
+    ],
+    "title": "hii"
+  },
+  "college-mate_20260507_081226": {
+    "id": "college-mate_20260507_081226",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T08:12:26.343468",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:12:28.360857"
+      }
+    ],
+    "title": "hii"
+  },
+  "study-mate_20260507_081317": {
+    "id": "study-mate_20260507_081317",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T08:13:17.974469",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hiii",
+        "timestamp": "2026-05-07T08:13:20.507751"
+      }
+    ],
+    "title": "hiii"
+  },
+  "study-mate_20260507_082313": {
+    "id": "study-mate_20260507_082313",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T08:23:13.830924",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:23:16.351954"
+      },
+      {
+        "role": "assistant",
+        "content": "\nHello! 👋 I'm Study-Mate, your academic tutor. How can I help you with your studies today? Whether you have questions about math, science, history, literature, or any other school subject, I'm here to help!\n",
+        "timestamp": "2026-05-07T08:23:24.571710"
+      }
+    ],
+    "title": "hii"
+  },
+  "college-mate_20260507_082328": {
+    "id": "college-mate_20260507_082328",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T08:23:28.380287",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:23:30.999395"
+      }
+    ],
+    "title": "hii"
+  },
+  "core-leveling_20260507_082342": {
+    "id": "core-leveling_20260507_082342",
+    "service_type": "core-leveling",
+    "created_at": "2026-05-07T08:23:42.211774",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:23:44.764749"
+      }
+    ],
+    "title": "hii"
+  },
+  "core-leveling_20260507_082350": {
+    "id": "core-leveling_20260507_082350",
+    "service_type": "core-leveling",
+    "created_at": "2026-05-07T08:23:50.297021",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:23:52.821249"
+      }
+    ],
+    "title": "hii"
+  },
+  "writer-guru_20260507_082357": {
+    "id": "writer-guru_20260507_082357",
+    "service_type": "writer-guru",
+    "created_at": "2026-05-07T08:23:57.026014",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:24:01.509792"
+      }
+    ],
+    "title": "hii"
+  },
+  "code-explainer_20260507_082405": {
+    "id": "code-explainer_20260507_082405",
+    "service_type": "code-explainer",
+    "created_at": "2026-05-07T08:24:05.796196",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:24:08.343648"
+      }
+    ],
+    "title": "hii"
+  },
+  "code-converter_20260507_082411": {
+    "id": "code-converter_20260507_082411",
+    "service_type": "code-converter",
+    "created_at": "2026-05-07T08:24:11.664082",
+    "messages": [],
+    "title": "New Code Converter Chat"
+  },
+  "study-mate_20260507_082759": {
+    "id": "study-mate_20260507_082759",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T08:27:59.228177",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:28:01.478727"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! 👋 I’m Study‑Mate, your friendly academic tutor. How can I help you with your studies today?",
+        "timestamp": "2026-05-07T08:28:07.058111"
+      }
+    ],
+    "title": "hii"
+  },
+  "college-mate_20260507_082809": {
+    "id": "college-mate_20260507_082809",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T08:28:09.154594",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:28:11.563876"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m College‑Mate, your guide for everything about Dr. BhimRao Ambedkar University and the HelpingHub project. How can I assist you today?",
+        "timestamp": "2026-05-07T08:28:16.931616"
+      }
+    ],
+    "title": "hii"
+  },
+  "core-leveling_20260507_082817": {
+    "id": "core-leveling_20260507_082817",
+    "service_type": "core-leveling",
+    "created_at": "2026-05-07T08:28:17.441517",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:28:19.837770"
+      },
+      {
+        "role": "assistant",
+        "content": "**Hello! I’m Core‑Leveling AI, your personal growth and habit‑building coach.**  \nWhat area would you like to level up today?\n\n- Crafting a new habit or breaking an old one  \n- Designing a study or productivity system  \n- Setting and crushing goals  \n- Mastering time‑management & scheduling  \n- Boosting focus, discipline, and confidence  \n\nLet me know what you’d like to work on, and we’ll build a clear, actionable plan together!",
+        "timestamp": "2026-05-07T08:28:28.843064"
+      }
+    ],
+    "title": "hii"
+  },
+  "writer-guru_20260507_082827": {
+    "id": "writer-guru_20260507_082827",
+    "service_type": "writer-guru",
+    "created_at": "2026-05-07T08:28:27.375979",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:28:29.787033"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m WriterGuru, I specialize in WRITING code! That isn’t a coding task. Try:\n- Code explanations → CodeExplainer  \n- Code conversion → CodeConverter  \n- Academic questions → Study‑Mate  \n- Health → Dr. JJC  \n\nGive me something to code and I’ll write it perfectly!",
+        "timestamp": "2026-05-07T08:28:35.447130"
+      }
+    ],
+    "title": "hii"
+  },
+  "code-explainer_20260507_082838": {
+    "id": "code-explainer_20260507_082838",
+    "service_type": "code-explainer",
+    "created_at": "2026-05-07T08:28:38.359314",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:28:40.475021"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m CodeExplainer — I explain existing code. If you’d like help understanding a piece of code, please paste it here and I’ll break it down for you!",
+        "timestamp": "2026-05-07T08:28:44.487352"
+      }
+    ],
+    "title": "hii"
+  },
+  "code-converter_20260507_082845": {
+    "id": "code-converter_20260507_082845",
+    "service_type": "code-converter",
+    "created_at": "2026-05-07T08:28:45.223278",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:28:47.500789"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m CodeConverter — I only convert code between programming languages!  \n- Write new code → WriterGuru  \n- Explain code → CodeExplainer  \n- Academic help → Study-Mate  \n\nGive me code + target language and I’ll convert it perfectly!",
+        "timestamp": "2026-05-07T08:28:55.488517"
+      }
+    ],
+    "title": "hii"
+  },
+  "dr-jjc_20260507_082852": {
+    "id": "dr-jjc_20260507_082852",
+    "service_type": "dr-jjc",
+    "created_at": "2026-05-07T08:28:52.891866",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:29:00.298798"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there! 👋 I’m Dr. JJC, your friendly health and wellness companion. How are you feeling today? Anything on your mind that you’d like to talk about—stress, sleep, nutrition, or just how your day’s going? I’m here to listen and support you. 🌿💛",
+        "timestamp": "2026-05-07T08:29:06.313022"
+      }
+    ],
+    "title": "hii"
+  },
+  "dream-interpreter_20260507_082908": {
+    "id": "dream-interpreter_20260507_082908",
+    "service_type": "dream-interpreter",
+    "created_at": "2026-05-07T08:29:08.474942",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T08:29:11.892964"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m the Dream Interpreter — I analyze dreams and their meanings! That’s outside my dream realm. Try:\n\n- Academic questions → Study‑Mate  \n- Health questions → Dr. JJC  \n- Personal growth → Core‑Leveling  \n\nTell me about a dream you had and I’ll interpret it!",
+        "timestamp": "2026-05-07T08:29:17.321079"
+      }
+    ],
+    "title": "hii"
+  },
+  "all-saver_20260507_082918": {
+    "id": "all-saver_20260507_082918",
+    "service_type": "all-saver",
+    "created_at": "2026-05-07T08:29:18.135252",
+    "messages": [],
+    "title": "New All Saver Chat"
+  },
+  "study-mate_20260507_112744": {
+    "id": "study-mate_20260507_112744",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T11:27:44.156883",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hey can you tell me about newton 1st law",
+        "timestamp": "2026-05-07T11:28:03.505269"
+      },
+      {
+        "role": "assistant",
+        "content": "Sure! Let’s break down **Newton’s First Law of Motion** step by step in simple terms.\n\n---\n\n## 1️⃣ What the law says\n> **An object at rest stays at rest, and an object in motion stays in motion with the same speed and in the same direction unless acted upon by an external (unbalanced) force.**\n\nIn other words, things don’t change their state of motion on their own—they need a push or pull (a net force) to start moving, stop moving, or change direction.\n\n---\n\n## 2️⃣ Key ideas\n\n| Concept | What it means |\n|---------|----------------|\n| **Object at rest** | Not moving (velocity = 0). |\n| **Object in motion** | Moving with a constant velocity (same speed *and* direction). |\n| **External/unbalanced force** | A net force that is not cancelled out by other forces. |\n| **Inertia** | The tendency of an object to keep doing what it’s already doing (stay still or keep moving). |\n\n---\n\n## 3️⃣ Why it matters – the idea of **inertia**\n- **Inertia** is the “laziness” of an object.  \n- The more massive an object, the greater its inertia, so it’s harder to change its motion.\n\n---\n\n## 4️⃣ Everyday examples\n\n| Situation | What Newton’s 1st Law explains |\n|-----------|--------------------------------|\n| **A book on a table** | It stays where it is because no net force is acting horizontally on it. |\n| **A soccer ball rolling on a flat field** | It eventually slows down because friction (a force) opposes its motion. Without friction, it would keep rolling forever. |\n| **A passenger lurching forward when a car stops suddenly** | Their body wants to keep moving forward (inertia) until the seat belt (external force) stops them. |\n| **Spacecraft in orbit** | Once it’s moving, with almost no friction, it keeps moving in the same direction at the same speed. |\n\n---\n\n## 5️⃣ How to “see” the law in equations\nWhile the first law itself doesn’t need an equation, it’s a special case of Newton’s second law:\n\n\\[\n\\sum \\vec{F} = m\\vec{a}\n\\]\n\n- If the **net force** \\(\\sum \\vec{F}\\) = 0, then the **acceleration** \\(\\vec{a}\\) = 0.  \n- Zero acceleration means **constant velocity** (which includes staying still, i.e., velocity = 0).\n\n---\n\n## 6️⃣ Quick check – Conceptual questions\n\n1. **Why does a hockey puck keep sliding on ice longer than on carpet?**  \n   *Answer:* The ice exerts much less friction (smaller external force), so the puck’s inertia isn’t opposed as much.\n\n2. **If you push a shopping cart and then let go, why does it eventually stop?**  \n   *Answer:* Friction and air resistance act as external forces, producing a net force opposite the motion.\n\n3. **A satellite in space experiences almost no forces. What will happen to its speed and direction?**  \n   *Answer:* It will keep moving at the same speed and direction (constant velocity) indefinitely.\n\n---\n\n## 7️⃣ Practice problem\n\n**Problem:** A 5‑kg block rests on a frictionless horizontal surface. A horizontal force of 10 N is applied for 3 seconds, then the force is removed.  \n\n**a)** What is the block’s velocity after the 3 seconds?  \n**b)** What happens to the block’s motion after the force is removed?\n\n**Solution Sketch:**\n\n- While the force is applied, use \\(F = ma\\) → \\(a = F/m = 10 N / 5 kg = 2 m/s²\\).  \n- Starting from rest, velocity after 3 s: \\(v = a t = 2 m/s² × 3 s = 6 m/s\\).  \n- After the force is removed, net force = 0 → by Newton’s 1st law, the block keeps moving at constant velocity (6 m/s) forever (or until another force acts).\n\n---\n\nFeel free to ask for more examples, a deeper dive into inertia, or any other physics concepts you’re curious about! 🚀",
+        "timestamp": "2026-05-07T11:28:37.109839"
+      },
+      {
+        "role": "user",
+        "content": "do you know about IPL indian premier leuge",
+        "timestamp": "2026-05-07T11:28:38.670402"
+      },
+      {
+        "role": "assistant",
+        "content": "Sorry, that's outside my academic scope! I focus on subjects like math, science, history, and other school/college topics. For sports information, you might want to use a general AI assistant. Can I help you with any academic questions instead?",
+        "timestamp": "2026-05-07T11:28:43.766311"
+      }
+    ],
+    "title": "hey can you tell me about newton 1st law"
+  },
+  "college-mate_20260507_112844": {
+    "id": "college-mate_20260507_112844",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T11:28:44.766281",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii collag mate what can you help me",
+        "timestamp": "2026-05-07T11:28:57.169583"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m College‑Mate, your dedicated guide for **Dr. BhimRao Ambedkar University** and the **HelpingHub** project. I can provide information on:\n\n- The university’s history, campuses, faculties, departments, courses and academic programs  \n- Details about the University Computer Centre (UCC) and its staff  \n- Everything you need to know about the **HelpingHub – Self Growth with AI** final‑semester project (team, mentor, technology stack, submission details, etc.)  \n\nIf you have any question on these topics, just ask!",
+        "timestamp": "2026-05-07T11:29:04.623650"
+      },
+      {
+        "role": "user",
+        "content": "can you tell me about guru randhava singer",
+        "timestamp": "2026-05-07T11:29:15.997417"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m College‑Mate, your university guide for Dr. BhimRao Ambedkar University! That question is outside my area. For general questions, try Study‑Mate or another AI. Ask me about our university or the HelpingHub project!",
+        "timestamp": "2026-05-07T11:29:25.714701"
+      }
+    ],
+    "title": "hii collag mate what can you help me"
+  },
+  "core-leveling_20260507_112928": {
+    "id": "core-leveling_20260507_112928",
+    "service_type": "core-leveling",
+    "created_at": "2026-05-07T11:29:28.165211",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello core leveling what can you do for me",
+        "timestamp": "2026-05-07T11:29:43.865565"
+      },
+      {
+        "role": "assistant",
+        "content": "**I’m Core‑Leveling AI – your personal growth & habit‑building coach!**  \n\nI help you design, launch, and stick to the systems that turn your goals into results. Here’s what we can work on together:\n\n| Area | What I’ll Deliver |\n|------|-------------------|\n| **Habit Building & Breaking Bad Habits** | Simple cue‑routine‑reward loops, habit‑stacking plans, and “anti‑habit” strategies to dissolve unwanted patterns. |\n| **Study Routines & Productivity Systems** | Custom study‑session structures (Pomodoro, Ultra‑Focus, spaced‑repetition), distraction‑proof environments, and toolkits for note‑taking & review. |\n| **Goal Setting & Achievement** | SMART/OKR frameworks, milestone mapping, and accountability checkpoints to keep you moving forward. |\n| **Time Management & Scheduling** | Weekly “time‑blocking” calendars, priority matrices (Eisenhower), and buffer‑building techniques for a realistic schedule. |\n| **Mental Discipline & Focus** | Attention‑training drills, mindfulness cues, and neuro‑hacks to boost concentration and reduce mental fatigue. |\n| **Self‑Improvement Plans & Tracking** | Weekly/monthly progress dashboards, habit‑tracker templates, and reflective review prompts. |\n| **Motivation, Mindset & Confidence** | Growth‑mindset reframing, daily affirmations, and confidence‑building micro‑wins. |\n| **Student Life Balance** | Integrated plans that weave academics, health (sleep, nutrition, movement), and social life into a sustainable routine. |\n\n**How it works**\n\n1. **You tell me your focus** – e.g., “I want to study for my finals while staying fit.”  \n2. **I ask a few quick clarifying questions** to tailor the plan.  \n3. **I deliver a structured, actionable roadmap** with daily/weekly steps, tracking tools, and motivation boosters.  \n\nReady to level up? Let me know the area you’d like to tackle first, and we’ll draft your personalized plan! 🚀",
+        "timestamp": "2026-05-07T11:29:59.670473"
+      },
+      {
+        "role": "user",
+        "content": "do you know about newtons first law",
+        "timestamp": "2026-05-07T11:30:09.070367"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m Core‑Leveling AI, your personal growth coach! That topic isn’t in my coaching domain. For that, I’d suggest:\n\n- Academic questions → Study‑Mate  \n- Health questions → Dr. JJC  \n- Coding help → WriterGuru  \n\nLet me help you build better habits instead!",
+        "timestamp": "2026-05-07T11:30:25.414642"
+      }
+    ],
+    "title": "hello core leveling what can you do for me"
+  },
+  "writer-guru_20260507_113043": {
+    "id": "writer-guru_20260507_113043",
+    "service_type": "writer-guru",
+    "created_at": "2026-05-07T11:30:43.297191",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii wrtter guru what can you do for me",
+        "timestamp": "2026-05-07T11:30:56.676474"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m WriterGuru, I specialize in WRITING code! That’s not a coding task. Try:\n- Code explanations → CodeExplainer  \n- Code conversion → CodeConverter  \n- Academic questions → Study-Mate  \n- Health → Dr. JJC  \n\nGive me something to code and I’ll write it perfectly!",
+        "timestamp": "2026-05-07T11:31:05.841328"
+      },
+      {
+        "role": "user",
+        "content": "do you know about best song for listining",
+        "timestamp": "2026-05-07T11:31:17.199711"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m WriterGuru, I specialize in WRITING code! That’s not a coding task. Try:\n- Code explanations → CodeExplainer  \n- Code conversion → CodeConverter  \n- Academic questions → Study-Mate  \n- Health → Dr. JJC  \n\nGive me something to code and I’ll write it perfectly!",
+        "timestamp": "2026-05-07T11:31:23.408842"
+      }
+    ],
+    "title": "hii wrtter guru what can you do for me"
+  },
+  "code-explainer_20260507_113130": {
+    "id": "code-explainer_20260507_113130",
+    "service_type": "code-explainer",
+    "created_at": "2026-05-07T11:31:30.909640",
+    "messages": [
+      {
+        "role": "user",
+        "content": "what about the code",
+        "timestamp": "2026-05-07T11:32:13.407651"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m happy to help break down any code you have! Could you please paste the snippet or file you’d like me to explain? Once I see it, I can walk you through how it works line‑by‑line, discuss the algorithms and data structures used, and point out any noteworthy patterns or potential issues.",
+        "timestamp": "2026-05-07T11:32:20.125431"
+      }
+    ],
+    "title": "what about the code"
+  },
+  "code-converter_20260507_113238": {
+    "id": "code-converter_20260507_113238",
+    "service_type": "code-converter",
+    "created_at": "2026-05-07T11:32:38.960964",
+    "messages": [
+      {
+        "role": "user",
+        "content": "explain me this code -->  ===== ROUTES =====\r\n@app.route('/')\r\ndef home(): return render_template('index.html')\r\n@app.route('/playground')\r\ndef playground(): return render_template('playground.html')\r\n@app.route('/about')\r\ndef about(): return render_template('about.html')\r\n@app.route('/university')\r\ndef university(): return render_template('university.h",
+        "timestamp": "2026-05-07T11:33:03.849460"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m CodeConverter — I only convert code between programming languages!  \n- Write new code → WriterGuru  \n- Explain code → CodeExplainer  \n- Academic help → Study‑Mate  \n\nGive me code + target language and I’ll convert it perfectly!",
+        "timestamp": "2026-05-07T11:33:09.670094"
+      }
+    ],
+    "title": "explain me this code -->  ===== ROUTES =====\r\n@app..."
+  },
+  "dr-jjc_20260507_113316": {
+    "id": "dr-jjc_20260507_113316",
+    "service_type": "dr-jjc",
+    "created_at": "2026-05-07T11:33:16.106369",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello dr i am feeling sick",
+        "timestamp": "2026-05-07T11:33:24.739081"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there! I’m sorry you’re not feeling well. 🌱  \n\nCan you tell me a little more about what’s going on?  \n- Any specific symptoms (like fever, cough, stomach upset, headache, etc.)?  \n- How long have you been feeling this way?  \n- Are you able to eat, drink, and rest comfortably?\n\nWhile I can offer some general self‑care ideas, it’s important to reach out to a healthcare professional—especially if you have a fever, worsening pain, trouble breathing, or any other concerning signs. Let me know a bit more, and I’ll do my best to support you with gentle tips for comfort and recovery. 🌼",
+        "timestamp": "2026-05-07T11:33:41.112798"
+      }
+    ],
+    "title": "hello dr i am feeling sick"
+  },
+  "dream-interpreter_20260507_113356": {
+    "id": "dream-interpreter_20260507_113356",
+    "service_type": "dream-interpreter",
+    "created_at": "2026-05-07T11:33:56.891923",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hello",
+        "timestamp": "2026-05-07T11:34:04.347752"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m the Dream Interpreter—here to explore the hidden symbols and emotions woven into your night‑time narratives. 🌙✨  \nTell me about a dream you’ve had (even a fragment or a recurring image), and I’ll help uncover its psychological and symbolic meanings.",
+        "timestamp": "2026-05-07T11:34:09.337646"
+      },
+      {
+        "role": "user",
+        "content": "what can you do for me",
+        "timestamp": "2026-05-07T11:34:21.240817"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m the Dream Interpreter — I analyze dreams and their meanings! That's outside my dream realm. Try:\n\n- Academic questions → Study‑Mate  \n- Health questions → Dr. JJC  \n- Personal growth → Core‑Leveling  \n\nTell me about a dream you had and I’ll interpret it!",
+        "timestamp": "2026-05-07T11:34:28.441618"
+      }
+    ],
+    "title": "hello"
+  },
+  "all-saver_20260507_113532": {
+    "id": "all-saver_20260507_113532",
+    "service_type": "all-saver",
+    "created_at": "2026-05-07T11:35:32.990272",
+    "messages": [],
+    "title": "New All Saver Chat"
+  },
+  "study-mate_20260507_133832": {
+    "id": "study-mate_20260507_133832",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T13:38:32.107644",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T13:38:34.574637"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m Study‑Mate, your friendly academic tutor. How can I help you with your studies today? 😊",
+        "timestamp": "2026-05-07T13:38:40.510459"
+      }
+    ],
+    "title": "hii"
+  },
+  "study-mate_20260507_142447": {
+    "id": "study-mate_20260507_142447",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T14:24:47.143207",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:24:50.176517"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m Study‑Mate, your friendly academic tutor. How can I help you with your studies today? 🚀",
+        "timestamp": "2026-05-07T14:25:01.022103"
+      }
+    ],
+    "title": "hii"
+  },
+  "college-mate_20260507_142505": {
+    "id": "college-mate_20260507_142505",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T14:25:05.098568",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:25:09.751514"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m College‑Mate, your guide for all things related to Dr. Bhimrao Ambedkar University and the HelpingHub project. How can I assist you today?",
+        "timestamp": "2026-05-07T14:25:14.963487"
+      }
+    ],
+    "title": "hii"
+  },
+  "core-leveling_20260507_142520": {
+    "id": "core-leveling_20260507_142520",
+    "service_type": "core-leveling",
+    "created_at": "2026-05-07T14:25:20.187417",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:25:23.524948"
+      },
+      {
+        "role": "assistant",
+        "content": "**Core-Leveling AI at your service!** 🚀  \nWhat area would you like to focus on today?\n\n- Building or breaking a habit  \n- Crafting a study or productivity routine  \n- Setting and crushing goals  \n- Mastering time management & scheduling  \n- Boosting mental discipline & focus  \n- Designing a self‑improvement tracking system  \n- Igniting motivation, mindset, and confidence  \n- Balancing student life (academics + health + social)\n\nLet me know what you’d like to work on, and we’ll create a concrete, actionable plan together!",
+        "timestamp": "2026-05-07T14:25:33.282742"
+      }
+    ],
+    "title": "hii"
+  },
+  "writer-guru_20260507_142535": {
+    "id": "writer-guru_20260507_142535",
+    "service_type": "writer-guru",
+    "created_at": "2026-05-07T14:25:35.747938",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:25:39.611393"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m WriterGuru, I specialize in WRITING code! That isn’t a coding task. Try:\n\n- Code explanations → CodeExplainer  \n- Code conversion → CodeConverter  \n- Academic questions → Study‑Mate  \n- Health → Dr. JJC  \n\nGive me something to code and I’ll write it perfectly!",
+        "timestamp": "2026-05-07T14:25:44.251265"
+      }
+    ],
+    "title": "hii"
+  },
+  "code-explainer_20260507_142546": {
+    "id": "code-explainer_20260507_142546",
+    "service_type": "code-explainer",
+    "created_at": "2026-05-07T14:25:46.371012",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:25:49.471008"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m CodeExplainer — I explain existing code. If you’d like me to break down some code, please paste it here!",
+        "timestamp": "2026-05-07T14:25:58.793094"
+      }
+    ],
+    "title": "hii"
+  },
+  "code-converter_20260507_142609": {
+    "id": "code-converter_20260507_142609",
+    "service_type": "code-converter",
+    "created_at": "2026-05-07T14:26:09.548739",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:26:12.771508"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m CodeConverter — I only convert code between programming languages!  \n- Write new code → WriterGuru  \n- Explain code → CodeExplainer  \n- Academic help → Study-Mate  \n\nGive me code + target language and I’ll convert it perfectly!",
+        "timestamp": "2026-05-07T14:26:18.136532"
+      }
+    ],
+    "title": "hii"
+  },
+  "dr-jjc_20260507_142632": {
+    "id": "dr-jjc_20260507_142632",
+    "service_type": "dr-jjc",
+    "created_at": "2026-05-07T14:26:32.847972",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:26:40.519720"
+      },
+      {
+        "role": "assistant",
+        "content": "Hey there! 🌼 I’m Dr. JJC, your health and wellness companion. How are you feeling today? Anything on your mind—stress, sleep, nutrition, or just needing a friendly ear? I’m here to support you.",
+        "timestamp": "2026-05-07T14:26:45.715003"
+      }
+    ],
+    "title": "hii"
+  },
+  "dream-interpreter_20260507_142719": {
+    "id": "dream-interpreter_20260507_142719",
+    "service_type": "dream-interpreter",
+    "created_at": "2026-05-07T14:27:19.453297",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T14:27:22.595351"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! 🌙 I'm here to explore the hidden symbols and emotions woven into your dreams.  \nFeel free to share any recent dream—no matter how vivid or ordinary—and we’ll uncover what your subconscious might be trying to tell you. ✨",
+        "timestamp": "2026-05-07T14:27:29.355253"
+      }
+    ],
+    "title": "hii"
+  },
+  "study-mate_20260507_143022": {
+    "id": "study-mate_20260507_143022",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T14:30:22.903221",
+    "messages": [],
+    "title": "New Study Mate Chat"
+  },
+  "college-mate_20260507_143059": {
+    "id": "college-mate_20260507_143059",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T14:30:59.859471",
+    "messages": [],
+    "title": "New College Mate Chat"
+  },
+  "study-mate_20260507_171704": {
+    "id": "study-mate_20260507_171704",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T17:17:04.092868",
+    "messages": [],
+    "title": "New Study Mate Chat"
+  },
+  "study-mate_20260507_171953": {
+    "id": "study-mate_20260507_171953",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T17:19:53.150050",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T17:19:57.403297"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m Study‑Mate, your friendly academic tutor. How can I help you with your studies today? 😊",
+        "timestamp": "2026-05-07T17:20:03.410507"
+      }
+    ],
+    "title": "hii"
+  },
+  "college-mate_20260507_172428": {
+    "id": "college-mate_20260507_172428",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T17:24:28.539050",
+    "messages": [
+      {
+        "role": "user",
+        "content": "agra university",
+        "timestamp": "2026-05-07T17:25:08.030957"
+      },
+      {
+        "role": "user",
+        "content": "hi",
+        "timestamp": "2026-05-07T17:26:15.212427"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m College‑Mate, your guide for Dr. BhimRao Ambedkar University (formerly Agra University). How can I help you today? Whether you need information about the university’s history, faculties, the University Computer Centre, or details on the HelpingHub project, just let me know!",
+        "timestamp": "2026-05-07T17:26:21.418149"
+      },
+      {
+        "role": "user",
+        "content": "sachin tendulkar",
+        "timestamp": "2026-05-07T17:27:00.022919"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m College‑Mate, your university guide for Dr. BhimRao Ambedkar University! That question is outside my area. For general questions, try Study‑Mate or another AI. Ask me about our university or the HelpingHub project!",
+        "timestamp": "2026-05-07T17:27:05.594282"
+      }
+    ],
+    "title": "agra university"
+  },
+  "study-mate_20260507_172543": {
+    "id": "study-mate_20260507_172543",
+    "service_type": "study-mate",
+    "created_at": "2026-05-07T17:25:43.571493",
+    "messages": [
+      {
+        "role": "user",
+        "content": "hii",
+        "timestamp": "2026-05-07T17:25:46.705079"
+      },
+      {
+        "role": "assistant",
+        "content": "Hello! I’m Study‑Mate, your friendly academic tutor. How can I help you with your studies today? 🚀",
+        "timestamp": "2026-05-07T17:25:51.595718"
+      }
+    ],
+    "title": "hii"
+  },
+  "dr-jjc_20260507_172722": {
+    "id": "dr-jjc_20260507_172722",
+    "service_type": "dr-jjc",
+    "created_at": "2026-05-07T17:27:22.335217",
+    "messages": [],
+    "title": "New Dr Jjc Chat"
+  },
+  "college-mate_20260507_172730": {
+    "id": "college-mate_20260507_172730",
+    "service_type": "college-mate",
+    "created_at": "2026-05-07T17:27:30.237514",
+    "messages": [
+      {
+        "role": "user",
+        "content": "sachin tendulkar",
+        "timestamp": "2026-05-07T17:27:43.382672"
+      },
+      {
+        "role": "assistant",
+        "content": "I’m College‑Mate, your university guide for Dr. BhimRao Ambedkar University! That question is outside my area. For general questions, try Study‑Mate or another AI. Ask me about our university or the HelpingHub project!",
+        "timestamp": "2026-05-07T17:27:48.822737"
+      },
+      {
+        "role": "user",
+        "content": "agra university BCA",
+        "timestamp": "2026-05-07T17:28:14.521255"
+      },
+      {
+        "role": "assistant",
+        "content": "### BCA (Bachelor of Computer Applications) – Dr. BhimRao Ambedkar University (formerly Agra University)\n\n| **Aspect** | **Details** |\n|------------|--------------|\n| **Program Type** | Undergraduate, 3‑year full‑time degree |\n| **Eligibility** | • Passed 10+2 (or equivalent) with **minimum 45 %** in aggregate.<br>• Must have studied **Mathematics** as a compulsory subject in 10+2 (or have a separate Mathematics qualification). |\n| **Intake Capacity** | Typically **60 – 90 seats** per year (subject to University approval and yearly admission round). |\n| **Affiliated Department** | **University Computer Centre (UCC), Khandari Campus** – the hub for all computer‑related programs. |\n| **Key Subjects / Semester‑wise Overview** | 1️⃣ **Semester 1‑2 (Foundation):**<br>‑ Fundamentals of Computer & IT<br>‑ Programming Basics (C / Python)<br>‑ Mathematics for Computing (Discrete Math, Linear Algebra)<br>‑ Business Communication & English<br><br>2️⃣ **Semester 3‑4 (Core):**<br>‑ Data Structures & Algorithms<br>‑ Database Management Systems (SQL & MongoDB)<br>‑ Operating Systems<br>‑ Web Technologies (HTML5, CSS3, JavaScript)<br>‑ Object‑Oriented Programming (Java / C++)<br><br>3️⃣ **Semester 5‑6 (Advanced / Project):**<br>‑ Software Engineering & Agile Practices<br>‑ Mobile Application Development<br>‑ Cloud Computing & Big Data Basics<br>‑ **Final Year Project** – often a real‑world application; many students choose AI‑driven projects (e.g., HelpingHub). |\n| **Laboratories & Facilities** | • **UCC Computing Labs** – 24‑hour access, high‑speed internet, Linux/Windows environments.<br>• **Software Tools** – IDEs (VS Code, Eclipse), database servers (MongoDB, MySQL), AI libraries (TensorFlow, PyTorch).<br>• **Project‑Based Learning** – close mentorship from faculty such as **Mr. Sumit Pathak (MCA, M.Tech)**. |\n| **Admission Process** | 1. **Online Application** through the University’s admission portal (usually opens in June).<br>2. Upload required documents (10+2 mark sheet, Mathematics proof, ID proof).<br>3. Pay the application fee (≈ ₹ 1,500).<br>4. **Counselling/Seat Allocation** based on merit list released by the University. |\n| **Career Opportunities** | - **Software Developer / Engineer** (Web, Mobile, Desktop)<br>- **Database Administrator**<br>- **System Analyst**<br>- **IT Consultant**<br>- **AI/ML Engineer** (especially if you work on projects like HelpingHub)<br>- **Further Studies:** MCA, M.Tech, MBA (Management). |\n| **Contact / Helpline** | **University Computer Centre (UCC)**<br>📍 Khandari Campus, Dr. BhimRao Ambedkar University, Agra<br>📞 Phone: +91‑0562‑XXXXXX<br>✉️ Email: ucc@dbauniversity.ac.in |\n| **Important Dates (2026‑27 Academic Year)** | - **Online Application Opens:** 10 June 2026<br>- **Last Date for Submission:** 30 June 2026<br>- **Counselling:** 15 – 20 July 2026<br>- **Commencement of Classes:** 1 August 2026 |\n\n---\n\n#### Quick Tips for Prospective BCA Students\n1. **Strengthen Mathematics** – many programming concepts rely on logical reasoning and discrete math.\n2. **Start Early with Coding** – platforms like **HackerRank** or **LeetCode** can give you a head start before the first semester.\n3. **Explore AI & Data** – the university encourages AI integration; participating in projects like **HelpingHub** can boost your portfolio.\n4. **Utilize UCC Resources** – the labs are well‑equipped; attend extra‑curricular coding clubs and workshops organized by the centre.\n5. **Network with Seniors** – seniors who have completed the BCA program can guide you on electives, internships, and placements.\n\nFeel free to ask if you need more details about the admission timeline, specific course modules, or how to get involved in projects like **HelpingHub**!",
+        "timestamp": "2026-05-07T17:28:53.968680"
+      },
+      {
+        "role": "user",
+        "content": "BCA syllabus",
+        "timestamp": "2026-05-07T17:29:03.101463"
+      },
+      {
+        "role": "assistant",
+        "content": "## BCA (Bachelor of Computer Applications) Syllabus  \n**Dr. BhimRao Ambedkar University – University Computer Centre (UCC), Khandari Campus**  \n\nThe BCA programme is spread over **six semesters** (three academic years). Each semester carries **≈ 22‑24 credits**. Below is the standard syllabus framework followed by the University.  \n\n---\n\n### **Semester 1 – Foundations**\n\n| **Course** | **Credits** | **Key Topics** |\n|------------|------------|----------------|\n| Fundamentals of Computer & IT | 3 | Computer basics, hardware & software, binary number system, data representation |\n| Programming Fundamentals (C) | 4 | Syntax, control structures, functions, arrays, pointers, file handling |\n| Mathematics for Computing I | 3 | Set theory, relations, functions, Boolean algebra, matrices |\n| Business Communication | 2 | Writing skills, presentations, formal correspondence |\n| English Language & Writing Skills | 2 | Grammar, composition, academic writing |\n| Environmental Studies | 2 | Ecology, sustainable development, climate change |\n| **Lab – Programming (C)** | 2 | Practical coding, debugging, mini‑projects |\n\n---\n\n### **Semester 2 – Core Computing Skills**\n\n| **Course** | **Credits** | **Key Topics** |\n|------------|------------|----------------|\n| Object‑Oriented Programming (Java) | 4 | Classes, objects, inheritance, polymorphism, exception handling |\n| Mathematics for Computing II | 3 | Discrete mathematics, combinatorics, graph theory, probability |\n| Digital Logic & Computer Organization | 3 | Number systems, logic gates, combinational & sequential circuits, CPU architecture |\n| Fundamentals of Database Management | 3 | DB concepts, ER modelling, SQL queries, normalization |\n| Principles of Management | 2 | Functions of management, planning, organizing, leading, controlling |\n| **Lab – OOP (Java)** | 2 | Java programming, GUI basics, file I/O |\n| **Practical – DBMS** | 1 | SQL commands, relational schema design |\n\n---\n\n### **Semester 3 – Intermediate Development**\n\n| **Course** | **Credits** | **Key Topics** |\n|------------|------------|----------------|\n| Data Structures & Algorithms | 4 | Lists, stacks, queues, trees, sorting & searching algorithms, complexity analysis |\n| Web Technologies I (HTML5 & CSS3) | 3 | Semantic HTML, CSS styling, responsive design, Bootstrap |\n| Operating Systems Fundamentals | 3 | Process management, memory management, file systems, scheduling |\n| Computer Networks – Basics | 3 | OSI model, TCP/IP, routing, LAN/WAN, network security basics |\n| Financial Accounting | 2 | Basic accounting principles, journal entries, financial statements |\n| **Lab – Data Structures** | 2 | Implementation of DS in C/Java, algorithm testing |\n| **Lab – Web I** | 1 | Building static web pages, CSS layout |\n\n---\n\n### **Semester 4 – Advanced Topics & Tools**\n\n| **Course** | **Credits** | **Key Topics** |\n|------------|------------|----------------|\n| Web Technologies II (JavaScript & Node.js) | 4 | DOM manipulation, AJAX, REST APIs, server‑side JavaScript |\n| Database Management Systems (Advanced) | 3 | Transaction management, indexing, NoSQL (MongoDB), security |\n| Software Engineering & Agile Practices | 3 | SDLC models, requirement engineering, UML, Scrum, testing |\n| Computer Graphics & Multimedia | 2 | Graphics fundamentals, SVG, Canvas API, multimedia handling |\n| Elective – Choose **One** (e.g., AI Basics, Mobile App Development, Cloud Computing) | 2 | Introductory concepts of the chosen field |\n| **Lab – Web II** | 2 | Full‑stack mini‑project (Front‑end + Node.js back‑end) |\n| **Lab – DBMS Advanced** | 1 | MongoDB CRUD operations, aggregation pipelines |\n\n---\n\n### **Semester 5 – Specialization & Emerging Tech**\n\n| **Course** | **Credits** | **Key Topics** |\n|------------|------------|----------------|\n| Machine Learning & AI Foundations* | 3 | Supervised/unsupervised learning, regression, classification, basic neural nets |\n| Mobile Application Development* | 3 | Android basics, UI design, data storage, API integration |\n| Cloud Computing & Big Data Basics* | 3 | IaaS/PaaS, AWS/GCP fundamentals, Hadoop ecosystem overview |\n| Information Security & Ethical Hacking* | 2 | Cryptography, network security, vulnerability assessment |\n| Project Management & Entrepreneurship | 2 | Project life‑cycle, risk management, startup basics |\n| **Lab – AI/ML** (optional based on elective) | 2 | Using Python libraries (NumPy, Pandas, Scikit‑learn) |\n| **Lab – Mobile/Cloud** (optional) | 1 | Building a simple Android app / deploying a web service on cloud |\n\n\\* Choose **two** electives from the list above; the third is taken as a **minor** subject.\n\n---\n\n### **Semester 6 – Capstone Project & Professional Skills**\n\n| **Course** | **Credits** | **Key Topics** |\n|------------|------------|----------------|\n| **Final Year Project (BCA Project)** | 8 | End‑to‑end development: problem statement, literature review, design, implementation, testing, documentation. Many students opt for AI‑driven solutions like **HelpingHub – Self Growth with AI**. |\n| Professional Ethics & Corporate Governance | 2 | Ethical issues in IT, corporate social responsibility, legal aspects |\n| Entrepreneurship Development | 2 | Business planning, funding, marketing for tech ventures |\n| Seminar & Technical Writing | 2 | Presentation skills, research paper writing, publishing |\n| **Project Lab** | 2 | Weekly guidance, prototype demos, code reviews (mentor: **Mr. Sumit Pathak**). |\n\n---\n\n## How to Use This Syllabus\n\n1. **Plan Your Study Calendar** – Allocate extra time for lab work and project milestones.  \n2. **Leverage UCC Resources** – The labs have **MongoDB**, **Flask**, and AI libraries pre‑installed, perfect for project work.  \n3. **Pick Electives Strategically** – If you aim for AI/ML roles, prioritize **Machine Learning & AI Foundations** and **Cloud Computing**.  \n4. **Project Early** – Start brainstorming your final‑year project by the end of Semester 4; you can align it with the **HelpingHub** framework for mentorship support.  \n\n---\n\n**Need more details?**  \n- **Course Handbook** (PDF) is available on the university portal under *Academics → BCA*.  \n- For clarification on electives or project registration, contact **Mr. Sumit Pathak (MCA, M.Tech)** at **sumit.pathak@dbauniversity.ac.in**.  \n\nGood luck with your BCA journey at Dr. BhimRao Ambedkar University!",
+        "timestamp": "2026-05-07T17:30:11.751435"
+      }
+    ],
+    "title": "sachin tendulkar"
+  }
+}

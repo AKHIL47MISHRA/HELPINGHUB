@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>Our University — HelpingHub</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <style>body{overflow-y:auto;height:auto;}</style>
+</head>
+<body>
+<nav class="navbar">
+  <div class="container nav-container">
+    <a class="logo" href="/"><div class="logo-icon"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/></svg></div><span class="logo-text">HelpingHub</span></a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="/">Home</a></li><li><a href="/playground">Playground</a></li><li><a href="/university" class="active">University</a></li><li><a href="/about">About</a></li>
+    </ul>
+    <button class="nav-hamburger" onclick="document.getElementById('navLinks').classList.toggle('open')"><svg viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg></button>
+  </div>
+</nav>
+
+<div class="page-header"><h1>Our University</h1><p>Dr. Bhimrao Ambedkar University</p></div>
+
+<section class="section">
+  <div class="container">
+    <div class="info-card">
+      <h2>University Information</h2>
+      <div class="info-grid">
+        <div class="info-item"><strong>University Name</strong><span>Dr. Bhimrao Ambedkar University</span></div>
+        <div class="info-item"><strong>Formerly Known As</strong><span>Agra University</span></div>
+        <div class="info-item"><strong>Founded</strong><span>1st July, 1927</span></div>
+        <div class="info-item"><strong>College</strong><span>University Computer Centre (UCC)</span></div>
+        <div class="info-item"><strong>Campus</strong><span>Khandari Campus</span></div>
+        <div class="info-item"><strong>Head / Director</strong><span>A.K. Gupta</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-alt">
+  <div class="container">
+    <h2 class="section-title">Faculty Members</h2>
+    <div class="team-grid">
+      <div class="team-card"><div class="team-avatar">A</div><h3>A.K. Gupta</h3><p>Head / Director, UCC</p></div>
+      <div class="team-card"><div class="team-avatar">M</div><h3>Meenakshi Chaudhary</h3><p>Assistant Professor</p><small>M.Sc., Ph.D.</small></div>
+      <div class="team-card"><div class="team-avatar">S</div><h3>Sumit Pathak</h3><p>Assistant Professor &amp; Project Mentor</p><small>MCA, M.Tech</small></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="info-card">
+      <h2>About the University</h2>
+      <p>The foundation of <strong>Dr Bhimrao Ambedkar University</strong> (originally Agra University) was laid on the <strong>1st of July, 1927</strong>, through efforts of Rev. Canon A.W. Davis, Munshi Narain Prasad Asthana, Dr L.P. Mathur, Lala Dewan Chand, Rai Bahadur Anand Swaroop, and Dr Brajendra Swaroop.</p>
+      <p>Original jurisdiction extended over United Provinces of Agra, Central India and Rajputana with <strong>14 affiliated colleges</strong> and <strong>2530 students</strong>, of which 1475 belonged to United Provinces.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-alt">
+  <div class="container">
+    <div class="info-card">
+      <h2>Faculties</h2>
+      <p style="color:var(--text-secondary);margin-bottom:10px;">Original faculties established in 1927:</p>
+      <div class="faculty-chips">
+        <span class="faculty-chip">Arts</span>
+        <span class="faculty-chip">Sciences</span>
+        <span class="faculty-chip">Commerce</span>
+        <span class="faculty-chip">Law</span>
+      </div>
+      <p style="color:var(--text-secondary);margin-top:20px;margin-bottom:10px;">Later additions:</p>
+      <div class="info-grid">
+        <div class="info-item"><strong>Medicine</strong><span>1936</span></div>
+        <div class="info-item"><strong>Agriculture</strong><span>1938</span></div>
+        <div class="info-item"><strong>Home Science</strong><span>1980</span></div>
+        <div class="info-item"><strong>Basic Sciences</strong><span>1981</span></div>
+        <div class="info-item"><strong>Fine Arts</strong><span>1982</span></div>
+        <div class="info-item"><strong>Management</strong><span>1994</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <h2>Want to Know More About Our University?</h2>
+      <p>Chat with College-Mate AI for personalized guidance</p>
+      <a href="/playground" class="btn-primary btn-large">Talk to College-Mate</a>
+    </div>
+  </div>
+</section>
+
+<footer class="footer"><div class="container"><p>&copy; 2025 HelpingHub — Self Growth with AI</p><p>Dr. BhimRao Ambedkar University &middot; Developed by Abhishek, Akhil &amp; Boby</p></div></footer>
+</body>
+</html>

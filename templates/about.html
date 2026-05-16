@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+  <title>About — HelpingHub</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <style>body{overflow-y:auto;height:auto;}</style>
+</head>
+<body>
+<nav class="navbar">
+  <div class="container nav-container">
+    <a class="logo" href="/"><div class="logo-icon"><svg viewBox="0 0 24 24"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 14H9V8h2v8zm4 0h-2V8h2v8z"/></svg></div><span class="logo-text">HelpingHub</span></a>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="/">Home</a></li><li><a href="/playground">Playground</a></li><li><a href="/university">University</a></li><li><a href="/about" class="active">About</a></li>
+    </ul>
+    <button class="nav-hamburger" onclick="document.getElementById('navLinks').classList.toggle('open')"><svg viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg></button>
+  </div>
+</nav>
+
+<div class="page-header"><h1>About the Project</h1><p>Overview, team, and technical details</p></div>
+
+<section class="section">
+  <div class="container">
+    <div class="info-card">
+      <h2>Project Information</h2>
+      <div class="info-grid">
+        <div class="info-item"><strong>Project Name</strong><span>HelpingHub</span></div>
+        <div class="info-item"><strong>Project Title</strong><span>HelpingHub – Self Growth with AI</span></div>
+        <div class="info-item"><strong>Domain</strong><span>Artificial Intelligence &amp; Web Development</span></div>
+        <div class="info-item"><strong>Academic Year</strong><span>2024–2025</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-alt">
+  <div class="container">
+    <h2 class="section-title">Development Team</h2>
+    <div class="team-grid">
+      <div class="team-card"><div class="team-avatar">A</div><h3>Abhishek</h3><p>Full-Stack Developer</p></div>
+      <div class="team-card"><div class="team-avatar">A</div><h3>Akhil</h3><p>AI Integration Specialist</p></div>
+      <div class="team-card"><div class="team-avatar">B</div><h3>Boby</h3><p>Frontend Developer</p></div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="info-card">
+      <h2>Submission Details</h2>
+      <div class="info-grid">
+        <div class="info-item"><strong>Submitted By</strong><span>Abhishek, Akhil, Boby</span></div>
+        <div class="info-item"><strong>Submitted To</strong><span>Mr. Sumit Pathak</span></div>
+        <div class="info-item"><strong>University</strong><span>Dr. BhimRao Ambedkar University</span></div>
+        <div class="info-item"><strong>Academic Year</strong><span>2024–2025</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-alt">
+  <div class="container">
+    <div class="info-card">
+      <h2>Project Description</h2>
+      <p>HelpingHub is an AI-based self-growth web application designed to help students and individuals improve their academic performance, coding skills, mental &amp; physical health, productivity, and daily problem-solving.</p>
+      <p>The platform uses multiple AI models through OpenRouter API to provide real-time, personalized assistance in different domains — education, health guidance, coding, self-analysis, and utility tools.</p>
+      <p>Each AI service is powered by a specialized model with tailored system instructions: Gemini 2.0 Flash for academic tasks, Mimo V2 for coding, DeepSeek R1 for health, and GPT-OSS-120B for general growth and dream analysis.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div class="info-card">
+      <h2>Technical Stack</h2>
+      <div class="tech-stack-grid">
+        <div class="tech-stack-item"><strong>Backend</strong><span>Python, Flask Framework</span></div>
+        <div class="tech-stack-item"><strong>Frontend</strong><span>HTML5, CSS3, JavaScript (Vanilla)</span></div>
+        <div class="tech-stack-item"><strong>AI Models</strong><span>Gemini 2.0, Mimo V2, DeepSeek R1, GPT-OSS-120B</span></div>
+        <div class="tech-stack-item"><strong>AI Gateway</strong><span>OpenRouter API</span></div>
+        <div class="tech-stack-item"><strong>Architecture</strong><span>RESTful API, Server-Sent Events (SSE)</span></div>
+        <div class="tech-stack-item"><strong>Additional APIs</strong><span>NumGo, All Saver, Kilwa Image Gen</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-alt">
+  <div class="container">
+    <div class="info-card">
+      <h2>Acknowledgment</h2>
+      <p>We would like to express our sincere gratitude to <strong>Mr. Sumit Pathak</strong> for his valuable guidance and support throughout this project. We are also thankful to <strong>Dr. BhimRao Ambedkar University</strong> for providing us with the opportunity to work on this innovative project.</p>
+      <p>This project has been a tremendous learning experience, combining our knowledge of web development, artificial intelligence, and API integration.</p>
+    </div>
+  </div>
+</section>
+
+<footer class="footer"><div class="container"><p>&copy; 2025 HelpingHub — Self Growth with AI</p><p>Developed by Abhishek, Akhil &amp; Boby &middot; Dr. BhimRao Ambedkar University</p></div></footer>
+</body>
+</html>
